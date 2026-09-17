@@ -42,17 +42,3 @@ Bachelor's Degree in Computer Engineering and Science — University of Bologna 
 
 📍 Bologna · Forlì, Italy &nbsp;|&nbsp; 🗣️ Italian (native), English (B2)
 
----
-
-<details>
-<summary>🇮🇹 Versione in italiano</summary>
-
-<br>
-
-**Monica Gondolini** — Full-Stack Developer con base a Bologna/Forlì. Progetto piattaforme end-to-end — API in Go, frontend in Vue.js, orchestrate con Docker e Kubernetes — e integro l'AI-assisted coding nel mio flusso di lavoro.
-
-Da oltre 5 anni sviluppo API REST e GraphQL in Go, gestisco database MongoDB e MySQL, e mando in produzione servizi containerizzati con Docker e Kubernetes. Lavoro sia sul backend sia sul frontend, da sola o in team, con basi accademiche in Big Data e Machine Learning.
-
-🌐 [mgondolini.github.io](https://mgondolini.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/monica-gondolini) · ✉️ monica.gondolini@gmail.com
-
-</details>
