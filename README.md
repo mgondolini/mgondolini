@@ -53,8 +53,6 @@ Bachelor's Degree in Computer Engineering and Science — University of Bologna 
 
 Da oltre 5 anni sviluppo API REST e GraphQL in Go, gestisco database MongoDB e MySQL, e mando in produzione servizi containerizzati con Docker e Kubernetes. Lavoro sia sul backend sia sul frontend, da sola o in team, con basi accademiche in Big Data e Machine Learning.
 
-Attualmente in **Search On Media Group**, su gestionali per eventi di formazione e le relative applicazioni web.
-
 🌐 [mgondolini.github.io](https://mgondolini.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/monica-gondolini) · ✉️ monica.gondolini@gmail.com
 
 </details>
